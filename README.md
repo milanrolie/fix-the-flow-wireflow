@@ -1,21 +1,13 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# Fix the flow
 
-# Titel
-<!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/112857190/208636286-af8339e7-7127-49e5-904b-f755c30771c0.png">
 
-## Gebruiker
-<!-- Het is duidelijk wie de gebruiker is -->
+Deze opdracht heb ik uitgevoerd in mijn persoonlijke project. Ik heb gekozen om meerdere flows uit te werken. De eerste is een uitschuifbare content balk, de andere is een muis met verschillende hover states. 
 
-## User Story
-<!-- Er is een User Story geschreven van de interactie -->
+### Schetsen
 
-## Wireflow
-<!-- Toon de wireflow -->
+<img width="1042" alt="image" src="https://user-images.githubusercontent.com/112857190/208637056-0f3e971e-3e15-4373-80cd-d9b60faf2899.png">
 
- 
+Bij de uitschuifbare content heb ik mij vooral gefocust op een sublieme animatie waarbij je subtiel mee wordt genomen in de animatie. Hier heb ik gebruik gemaakt van Javascipt en CSS. 
 
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
+Bij de muis animaties ben ik vooral druk bezig geweest met Javascript. Door erg veel te googelen en vragen te stellen aan Cyd heb ik geleerd hoe je dit doet. Momenteel is het nog niet volledig uitgewerkt maar it's getting there!
