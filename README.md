@@ -11,3 +11,6 @@ Deze opdracht heb ik uitgevoerd in mijn persoonlijke project. Ik heb gekozen om 
 Bij de uitschuifbare content heb ik mij vooral gefocust op een sublieme animatie waarbij je subtiel mee wordt genomen in de animatie. Hier heb ik gebruik gemaakt van Javascipt en CSS. 
 
 Bij de muis animaties ben ik vooral druk bezig geweest met Javascript. Door erg veel te googelen en vragen te stellen aan Cyd heb ik geleerd hoe je dit doet. Momenteel is het nog niet volledig uitgewerkt maar it's getting there!
+
+<img width="659" alt="image" src="https://user-images.githubusercontent.com/112857190/208638991-db549563-49ac-4830-9a89-893bfebdbbd4.png">
+
